@@ -1,0 +1,19 @@
+diff --git a/OneDrive/Desktop/edureka-repo/edureka.py b/OneDrive/Desktop/edureka-repo/edureka.py
+deleted file mode 100644
+index 8f26ef5..0000000
+--- a/OneDrive/Desktop/edureka-repo/edureka.py
++++ /dev/null
+@@ -1,4 +0,0 @@
+-a = 10
+-b = 20
+-c = a+b
+-print(a)
+\ No newline at end of file
+diff --git a/OneDrive/Desktop/edureka-repo/welcome.py b/OneDrive/Desktop/edureka-repo/welcome.py
+deleted file mode 100644
+index ab26729..0000000
+--- a/OneDrive/Desktop/edureka-repo/welcome.py
++++ /dev/null
+@@ -1 +0,0 @@
+-print("welcome to edureka")
+\ No newline at end of file
